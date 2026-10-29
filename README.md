@@ -6,7 +6,8 @@ An exploratory data analysis (EDA) project focused on understanding sales perfor
 
 **Explore the interactive dashboard:** [Open Streamlit App](https://unitedstate-superstore-dataanalysis-duduma6cckcxyv9vnsmtzd.streamlit.app/)
 
-> Replace `YOUR_STREAMLIT_APP_URL` with your deployed Streamlit Community Cloud URL.
+> [google_screen_recording_2026-10-29T03-24-38.124Z.webm](https://github.com/user-attachments/assets/85ecba12-7b41-4a14-947b-f9c14b5ad817)
+
 
 ## 📌 Project Overview
 
