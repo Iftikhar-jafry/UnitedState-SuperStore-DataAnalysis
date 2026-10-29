@@ -165,7 +165,3 @@ Computer Science Graduate | Interested in Data Analytics, Data Engineering, and 
 - **atomcamp** — AI Bootcamp learning opportunity
 - **Iqra University** — Bootcamp host institution
 - The creators and providers of the Superstore dataset used for this analysis
-
----
-
-⭐ If you find this project useful, feel free to explore the notebook and interactive dashboard, and share your feedback!
